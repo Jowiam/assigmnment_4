@@ -17,7 +17,7 @@ output:
     highlight: tango
     toc: yes
 ---
-link to Github: "https://github.com/Jowiam/assigmnment_4/blob/main/assigment_4.qmd"
+[link to Github:](https://github.com/Jowiam/assigmnment_4/blob/main/assigment_4.qmd)
 # Task. 1
 
 For the last 3 months of 2017, calculate the total Sales by month, for Region 1 and Region 9 in the Customer_Segment, Corporate, and Consumer. This output is Table 1.
